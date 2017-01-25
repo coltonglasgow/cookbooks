@@ -1,2 +1,2 @@
 # cookbooks
-Chef cookbooks
+Zipped Chef cookbooks
